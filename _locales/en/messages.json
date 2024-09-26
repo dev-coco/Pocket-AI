@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Pocket AI"
+  },
+  "extDesc": {
+    "message": "Quickly launch the sidebar AI website on any page."
+  },
+  "tutorial": {
+    "message": "https://dev-coco.github.io/post/Pocket-AI-EN/"
+  }
+}

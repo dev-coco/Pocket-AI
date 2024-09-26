@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "口袋 AI"
+  },
+  "extDesc": {
+    "message": "在任意页面快速启动侧边栏 AI 网站。"
+  },
+  "tutorial": {
+    "message": "https://dev-coco.github.io/post/Pocket-AI/"
+  }
+}
